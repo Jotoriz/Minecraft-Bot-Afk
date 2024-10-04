@@ -1,0 +1,65 @@
+{
+  "bot-account": [
+  {
+    "username": "yifw",
+    "password": "",
+    "type": ""
+  },
+  {
+    "username": "naluy",
+    "password": "",
+    "type": ""
+  },
+  {
+    "username": "Asiku",
+    "password": "",
+    "type": ""
+  },{
+    "username": "cosmay",
+    "password": "",
+    "type": ""
+  }
+  ],
+
+  "server": {
+    "ip": "Seikai.tokyo",
+    "port": 25565,
+    "version": "1.18.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "12345671"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm a regular player ",
+        "My owner is urFate_ ",
+        "I want be alone ",
+        "Visit my GitHub page! (urFate/Afk-Bot)"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
